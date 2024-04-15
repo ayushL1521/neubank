@@ -1,0 +1,16 @@
+com\neubank\models\Customer.class
+com\neubank\BankingController.class
+com\neubank\models\TransferRequest.class
+com\neubank\MyWebApplicationInitializer.class
+com\neubank\models\WithdrawRequest.class
+com\neubank\dao\BankAccountDAO.class
+com\neubank\dao\TransactionDAO.class
+com\neubank\models\DepositRequest.class
+com\neubank\models\VendorAccount.class
+com\neubank\models\DepositResponse.class
+com\neubank\models\BankAccount.class
+com\neubank\resources\JakartaEE10Resource.class
+com\neubank\dao\CustomerDAO.class
+com\neubank\models\Transactions.class
+com\neubank\JakartaRestConfiguration.class
+com\neubank\models\CustomerRequest.class
